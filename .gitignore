@@ -1,0 +1,30 @@
+# Node / React Native
+node_modules/
+.expo/
+.expo-shared/
+dist/
+build/
+android/
+ios/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.egg-info/
+*.egg
+
+# VS Code / Sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Entornos
+.env
